@@ -137,6 +137,12 @@ footer {
     h2 {
         width: 75%;
     }
+    input {
+        width: 60%;
+    }
+    textarea {
+        width: 60%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -153,6 +159,12 @@ footer {
     h2 {
         width: 75%;
     }
+    input {
+        width: 60%;
+    }
+    textarea {
+        width: 60%;
+    }
 }
     
 @media screen and (max-width: 640px) {
@@ -168,5 +180,11 @@ footer {
     }
     h2 {
         width: 75%;
+    }
+    input {
+        width: 60%;
+    }
+    textarea {
+        width: 60%;
     }
 }
