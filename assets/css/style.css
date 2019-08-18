@@ -106,11 +106,11 @@ footer {
 
 .div-port {
     margin: 10px 10px 10px 0px;
-    float: left;
-    position: relative;
     text-align: center;
     color: white;  
-}
+    float: left;
+    position: relative;
+    }
 
 .div-label {
     position: absolute;
