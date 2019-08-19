@@ -108,7 +108,7 @@ footer {
     margin: 10px 10px 10px 0px;
     text-align: center;
     color: white;  
-    float: left;
+    display: inline-block;
     position: relative;
     }
 
